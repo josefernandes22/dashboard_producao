@@ -1,0 +1,89 @@
+D	Nome Operador	Data de Nascimento	Data de Admissão	Departamento	Cargo	Salário Base (R$)	Turno	Assiduidade	Dias Ausência	Localidade	Status
+1	Sthefeson Pereira	25/04/2001	10/09/2023	Embalagem	Auxiliar de Embalagem	1.742,16	Turno C (Noite)	99.61%	1	Tondela	Ativo
+2	Antonio Manhães	06/11/1972	10/05/2017	Montagem	Auxiliar de Montagem	1.775,03	Turno C (Noite)	99.41%	1	Lamego	Ativo
+3	Bianca Paz	18/07/1997	18/07/2018	Usinagem	Operador de CNC I	2.349,74	Turno B (Tarde)	98.66%	3	São Pedro do Sul	Ativo
+4	Silvio Fahrnholz	17/11/1997	04/02/2018	Usinagem	Operador de CNC I	2.268,29	Turno C (Noite)	96.71%	7	Mangualde	Férias
+5	Luiza Cabral	12/11/1987	31/12/2017	Qualidade	Inspetor de Qualidade	2.206,48	Turno B (Tarde)	98.66%	3	São Pedro do Sul	Ativo
+6	Ana Silva	24/06/1985	20/06/2023	Logística	Auxiliar de Logística	1.556,45	Turno A (Manhã)	99.13%	2	Braga	Ativo
+7	Natalia Marinho	20/07/1975	27/06/2019	Embalagem	Auxiliar de Embalagem	1.776,77	Turno A (Manhã)	99.21%	2	Nelas	Ativo
+8	Leonardo Ferreira	24/05/1995	09/12/2020	Usinagem	Operador de CNC I	2.481,56	Turno A (Manhã)	99.92%	0	Lamego	Ativo
+9	Chan Santos	11/01/1996	11/04/2016	Usinagem	Operador de CNC II	1.998,74	Turno A (Manhã)	99.79%	0	Mangualde	Ativo
+10	Fernanda Ferreira	28/10/1977	23/05/2018	Qualidade	Inspetor de Qualidade	2.013,75	Turno A (Manhã)	99.26%	2	Lamego	Ativo
+11	Raissa Negrelli	17/05/1978	27/11/2015	Usinagem	Operador de CNC II	2.139,93	Turno B (Tarde)	97.35%	6	Tondela	Ativo
+12	Arthur Rocha	20/01/1993	22/01/2019	Produção	Líder de Produção	4.672,64	Turno A (Manhã)	99.08%	2	Tondela	Ativo
+13	Eduardo Silva	20/01/1992	05/11/2020	Produção	Operador de Produção I	2.496,12	Turno B (Tarde)	98.40%	4	Lamego	Ativo
+14	João Aires	28/06/1982	07/09/2023	Produção	Operador de Produção I	1.923,15	Turno A (Manhã)	99.50%	1	Viseu	Ativo
+15	Caio Caldas	07/01/1995	29/12/2022	Produção	Operador de Produção I	1.812,65	Turno B (Tarde)	98.87%	2	Viseu	Ativo
+16	Tiago Pereira	19/07/1995	11/05/2015	Montagem	Montador II	2.145,73	Turno A (Manhã)	99.23%	2	Lamego	Ativo
+17	Julia Penteado	17/03/1976	13/08/2019	Montagem	Montador I	1.925,18	Turno A (Manhã)	99.87%	0	Mangualde	Ativo
+18	Bernardo Botelho	19/08/1985	08/02/2017	Produção	Operador de Produção II	2.056,53	Turno B (Tarde)	95.05%	11	Tondela	Ativo
+19	Victor Ferreira	14/01/1984	19/07/2021	Produção	Operador de Produção I	2.320,92	Turno B (Tarde)	99.92%	0	São Pedro do Sul	Ativo
+20	Thays Castro	02/02/1981	24/02/2019	Produção	Operador de Produção II	2.304,66	Turno A (Manhã)	98.00%	4	São Pedro do Sul	Ativo
+21	Ruan Lopes	17/12/1981	24/10/2022	Embalagem	Operador de Empacotamento	2.108,06	Turno C (Noite)	98.95%	2	Viseu	Ativo
+22	Mariana Baptista	19/06/1984	30/08/2021	Logística	Operador de Empilhadeira	3.205,30	Turno A (Manhã)	98.98%	2	Braga	Ativo
+23	Alexandre Rodriguez	08/01/1995	30/04/2018	Usinagem	Torneiro Mecânico	3.161,46	Turno B (Tarde)	98.55%	3	Mangualde	Ativo
+24	Natalia Guedes	03/07/1975	13/08/2017	Manutenção	Eletricista Industrial	2.245,43	Turno C (Noite)	99.96%	0	São Pedro do Sul	Ativo
+25	Manuela Merege	19/10/1992	13/05/2021	Embalagem	Auxiliar de Embalagem	1.509,18	Turno B (Tarde)	98.23%	4	Lamego	Ativo
+26	Bruna Ramos	28/02/1985	30/03/2018	Manutenção	Mecânico de Manutenção	3.266,83	Turno B (Tarde)	98.55%	3	Leiria	Ativo
+27	Caio Vianna	23/07/1996	04/04/2016	Manutenção	Eletricista Industrial	2.485,23	Turno B (Tarde)	99.68%	1	Porto	Ativo
+28	Bernardo Nauenberg	08/07/1978	22/01/2015	Montagem	Montador II	2.140,72	Turno B (Tarde)	99.66%	1	São Pedro do Sul	Ativo
+29	Rodrigo Bruno	23/09/2001	19/04/2021	Produção	Operador de Produção I	2.434,27	Turno B (Tarde)	97.54%	5	Porto	Ativo
+30	Pedro Macckione	23/08/1995	17/01/2017	Montagem	Montador II	2.104,08	Turno A (Manhã)	99.42%	1	Viseu	Ativo
+31	Giuseppe Bhering	25/06/1995	14/12/2022	Embalagem	Operador de Empacotamento	2.150,08	Turno A (Manhã)	97.67%	5	Viseu	Ativo
+32	Isabela Resende	03/05/1982	19/04/2016	Embalagem	Operador de Empacotamento	2.445,10	Turno B (Tarde)	97.48%	6	São Pedro do Sul	Ativo
+33	Raíza Lopes	28/01/1979	18/12/2017	Usinagem	Operador de CNC I	2.268,25	Turno C (Noite)	99.29%	2	Mangualde	Ativo
+34	Wilson Vianna	02/08/1988	02/01/2022	Produção	Operador de Produção II	2.404,92	Turno B (Tarde)	99.01%	2	Porto	Ativo
+35	Larissa Florim	14/08/1998	09/08/2020	Usinagem	Operador de CNC II	1.961,13	Turno A (Manhã)	98.66%	3	Viseu	Ativo
+36	Luíza Melo	16/11/1979	10/07/2022	Montagem	Montador I	2.149,44	Turno B (Tarde)	99.86%	0	Lamego	Ativo
+37	Fernanda Junior	05/04/1994	02/09/2017	Qualidade	Auxiliar de Qualidade	1.633,94	Turno B (Tarde)	97.27%	6	Tondela	Ativo
+38	Bianca Procaci	14/05/1978	12/12/2019	Logística	Auxiliar de Logística	1.710,20	Turno A (Manhã)	99.34%	1	Mangualde	Ativo
+39	Diogo Peixoto	07/02/1973	09/07/2015	Embalagem	Operador de Empacotamento	1.843,60	Turno A (Manhã)	98.14%	4	Nelas	Ativo
+40	Cícero Lima	01/07/1994	25/03/2023	Produção	Operador de Produção I	2.496,19	Turno B (Tarde)	99.91%	0	Mangualde	Ativo
+41	Raphael Kurtz	19/05/1980	27/06/2022	Produção	Operador de Produção I	2.128,96	Turno B (Tarde)	99.66%	1	Lamego	Ativo
+42	Fabio Boccaletti	04/03/1988	25/03/2023	Produção	Líder de Produção	4.419,34	Turno A (Manhã)	99.28%	2	Mangualde	Ativo
+43	Manuela Ferreira	01/02/1979	16/07/2016	Embalagem	Operador de Empacotamento	2.683,49	Turno A (Manhã)	98.43%	3	Mangualde	Ativo
+44	Juliana Correa	20/05/1986	14/03/2020	Produção	Operador de Production I	2.323,40	Turno A (Manhã)	99.83%	0	Porto	Ativo
+45	Jéssica Resinente	02/10/1988	21/06/2018	Montagem	Montador II	2.467,15	Turno A (Manhã)	98.68%	3	Viseu	Ativo
+46	Adrielle Forte	23/07/2000	19/11/2022	Produção	Líder de Produção	4.496,13	Turno C (Noite)	99.18%	2	Lamego	Ativo
+47	Thayna Martins	05/04/1988	09/03/2019	Manutenção	Eletricista Industrial	2.186,94	Turno C (Noite)	99.47%	1	Lamego	Ativo
+48	Pedro Jorge	09/06/1999	08/10/2023	Montagem	Montador II	2.200,60	Turno A (Manhã)	98.66%	3	São Pedro do Sul	Ativo
+49	Juliana Souza	12/05/1995	08/10/2016	Usinagem	Operador de CNC II	2.486,23	Turno C (Noite)	99.55%	1	Lamego	Ativo
+50	Tayla Lima	26/04/1998	30/08/2020	Embalagem	Auxiliar de Embalagem	1.441,23	Turno B (Tarde)	99.50%	1	Vila Nova de Gaia	Ativo
+51	Thiago Miura	24/12/1981	28/11/2022	Produção	Líder de Produção	4.458,55	Turno B (Tarde)	98.95%	2	Coimbra	Ativo
+52	Beatriz Silva	24/10/1985	23/01/2021	Usinagem	Torneiro Mecânico	2.748,18	Turno B (Tarde)	99.07%	2	Tondela	Férias
+53	Juliana Mesquita	17/07/1985	21/07/2018	Usinagem	Torneiro Mecânico	2.849,02	Turno A (Manhã)	98.95%	2	Viseu	Ativo
+54	Henrique Oliveira	17/03/1984	01/09/2021	Produção	Operador de Produção I	2.139,70	Turno A (Manhã)	99.48%	1	Mangualde	Ativo
+55	Caio Ferreira	08/09/1983	23/08/2016	Manutenção	Mecânico de Manutenção	2.984,49	Turno B (Tarde)	99.91%	0	Tondela	Ativo
+56	Myllena Carneiro	07/09/2000	21/06/2021	Usinagem	Torneiro Mecânico	3.013,10	Turno B (Tarde)	99.86%	0	Nelas	Ativo
+57	Nina Magalhães	22/06/1992	23/08/2020	Embalagem	Operador de Empacotamento	2.644,21	Turno A (Manhã)	99.96%	0	Aveiro	Ativo
+58	Yasser Calbucci	26/04/1985	30/08/2015	Manutenção	Eletricista Industrial	2.451,01	Turno C (Noite)	99.44%	1	Viseu	Ativo
+59	Pedro Costa	23/02/1975	03/08/2020	Usinagem	Operador de CNC I	1.849,29	Turno B (Tarde)	99.59%	1	Viseu	Ativo
+60	Clara Bruno	06/11/1998	25/09/2022	Produção	Líder de Produção	4.313,38	Turno A (Manhã)	97.45%	6	Tondela	Ativo
+61	Bruno Freitas	10/05/1985	25/02/2022	Produção	Operador de Produção I	2.269,80	Turno C (Noite)	99.39%	1	São Pedro do Sul	Ativo
+62	Carlos Portela	06/09/2000	24/01/2023	Montagem	Auxiliar de Montagem	1.551,15	Turno C (Noite)	99.14%	2	Lamego	Ativo
+63	Aline Morais	05/01/1997	25/09/2018	Produção	Operador de Produção II	1.977,91	Turno C (Noite)	98.02%	4	Viseu	Afastado (Médico)
+64	Livia Corrêa	26/06/1976	09/11/2020	Montagem	Montador II	2.006,70	Turno A (Manhã)	99.30%	2	Aveiro	Ativo
+65	Thomaz Ferreira	21/07/1987	22/10/2018	Manutenção	Mecânico de Manutenção	2.919,32	Turno B (Tarde)	95.05%	11	Porto	Ativo
+66	Marcos Nucci	21/06/1994	23/03/2023	Montagem	Montador I	2394,07	Turno B (Tarde)	99.69%	1	Viseu	Ativo
+67	Andressa Chou	27/06/1975	18/01/2019	Produção	Operador de Produção II	1.895,63	Turno B (Tarde)	99.98%	0	Nelas	Ativo
+68	Júlio Fraga	12/02/1994	31/12/2021	Montagem	Montador II	2.296,24	Turno C (Noite)	99.32%	1	Porto	Ativo
+69	Vanessa Rodrigues	21/09/1985	14/02/2017	Manutenção	Mecânico de Manutenção	3.218,67	Turno B (Tarde)	98.41%	3	Tondela	Ativo
+70	Gabrielle Costa	13/10/1989	04/02/2015	Produção	Operador de Produção II	2.007,56	Turno C (Noite)	97.57%	5	Viseu	Ativo
+71	Marina Cormack	21/10/1985	03/03/2021	Usinagem	Operador de CNC I	2.093,85	Turno C (Noite)	99.99%	0	Viseu	Ativo
+72	Bruna Silveira	28/02/1978	19/08/2023	Produção	Operador de Produção I	1.979,34	Turno C (Noite)	99.25%	2	Viseu	Ativo
+73	Thiago Costa	01/11/1979	09/05/2020	Montagem	Montador I	2.228,06	Turno B (Tarde)	99.13%	2	Vila Nova de Gaia	Ativo
+74	Mariana Miranda	04/05/1981	05/05/2019	Montagem	Auxiliar de Montagem	1.443,66	Turno A (Manhã)	97.95%	5	Aveiro	Ativo
+75	Adrielle Vieira	21/10/1985	01/06/2023	Produção	Operador de Produção II	1.803,63	Turno A (Manhã)	98.56%	3	Viseu	Ativo
+76	Maria Moita	11/08/1987	18/10/2017	Usinagem	Operador de CNC I	2.239,53	Turno C (Noite)	98.35%	4	Viseu	Ativo
+77	Guilherme Santos	27/01/1999	26/02/2022	Montagem	Auxiliar de Montagem	1.487,38	Turno A (Manhã)	99.43%	1	Viseu	Ativo
+78	Maria Gasperi	03/08/1992	03/02/2018	Embalagem	Operador de Empacotamento	1.870,94	Turno B (Tarde)	99.10%	2	Viseu	Ativo
+79	Caio Moraes	23/02/1978	09/02/2019	Produção	Líder de Produção	4.595,18	Turno A (Manhã)	99.81%	0	Vila Nova de Gaia	Ativo
+80	Ives Teixeira	22/08/1982	03/12/2016	Produção	Líder de Produção	4.076,15	Turno B (Tarde)	99.72%	1	Tondela	Ativo
+81	Rafaela Gomes	24/05/1980	15/09/2021	Produção	Operador de Produção I	2.420,63	Turno C (Noite)	97.85%	5	Tondela	Ativo
+82	Matheus Gomes	04/10/2002	09/08/2022	Produção	Operador de Produção I	1.819,33	Turno C (Noite)	96.73%	7	Viseu	Afastado (Médico)
+83	Amanda Braga	19/04/1985	29/04/2019	Usinagem	Torneiro Mecânico	3.252,52	Turno A (Manhã)	94.46%	12	Nelas	Ativo
+84	Diego Marchesi	11/04/1993	11/06/2015	Montagem	Montador II	2.106,93	Turno C (Noite)	99.54%	1	Tondela	Ativo
+85	Laís Oliveira	13/11/1979	21/07/2015	Produção	Líder de Produção	5.008,04	Turno B (Tarde)	98.06%	4	São Pedro do Sul	Ativo
+86	Rachel Restum	09/02/1990	04/06/2020	Produção	Operador de Produção II	2.029,71	Turno A (Manhã)	98.29%	4	Viseu	Ativo
+87	Breno Britto	21/02/1972	22/09/2017	Produção	Operador de Produção I	1.908,53	Turno B (Tarde)	99.65%	1	Porto	Ativo
+88	Bruno Barcessat	08/09/1993	06/05/2021	Embalagem	Operador de Empacotamento	2.781,84	Turno B (Tarde)	97.37%	6
