@@ -38,7 +38,7 @@ The main objective is to transform operational data into useful information for 
 
 ## 📷 Dashboard
 
-Screenshots of the Power BI dashboard will be added here.
+Below are some views of the Power BI dashboard developed for the project.
 <img width="1467" height="824" alt="image" src="https://github.com/user-attachments/assets/384bbb80-8aa3-4936-8804-bb950540f078" />
 <img width="1461" height="823" alt="image" src="https://github.com/user-attachments/assets/c8a20812-2980-4bf3-aef9-939cd245f097" />
 <img width="1467" height="819" alt="image" src="https://github.com/user-attachments/assets/cb572d23-6807-4897-a6b5-8ee9ef99e45b" />
